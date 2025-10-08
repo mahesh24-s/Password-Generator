@@ -29,4 +29,4 @@ A customizable password generator web app built with HTML, CSS, and JavaScript.
 - [`index.js`](index.js): JavaScript logic for password generation and UI interactions
 
 ## License
-<!-- This project is open source and free to use.  -->
+This project is open source and free to use. 
